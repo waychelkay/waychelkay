@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waychelkay
 - 👀 I’m interested in photography, hip hop dancing, nutrition
-- 🌱 I’m currently learning Front End Web Development and UX/UI Design  
+- 🌱 I’m currently learning Front End Web Development 
 - 💞️ I’m looking to collaborate on a mobile app! and Photography :)
 - 📫 How to reach me @waychelkay Insta
 
