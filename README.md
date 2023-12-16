@@ -2,7 +2,6 @@
 - 👀 I’m interested in photography, hip hop dancing, nutrition
 - 🌱 I’m currently learning Front End Web Development 
 - 💞️ I’m looking to collaborate on a mobile app! and Photography :)
-- 📫 How to reach me @waychelkay Insta
 
 <!---
 waychelkay/waychelkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
